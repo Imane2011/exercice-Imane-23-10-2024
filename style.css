@@ -1,0 +1,15 @@
+header {
+    background-color: #e3b3db;
+    color: white;
+    padding: 10px 20px;
+    text-align: left;
+}
+footer {
+    background-color: #7699d1;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+} 
+.tableau {
+    text-align:center
+}  
